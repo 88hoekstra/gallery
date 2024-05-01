@@ -1,270 +1,1326 @@
 {
-  "Mockups": [
+  "OvO": [
     {
-      "height": 2020,
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png",
-      "path": "./photos/Mockups/Desktop.png"
+      "width": 449,
+      "height": 585,
+      "path": "./photos/OvO/egg132.jpg",
+      "compressed_path": "./photos/OvO/egg132.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/OvO/egg132.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png",
-      "path": "./photos/Mockups/curriculum.png"
+      "width": 584,
+      "height": 585,
+      "path": "./photos/OvO/egg133.jpg",
+      "compressed_path": "./photos/OvO/egg133.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/OvO/egg133.placeholder.jpg"
     },
     {
-      "height": 1000,
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "width": 1000,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png",
-      "path": "./photos/Mockups/Frame.png"
+      "width": 584,
+      "height": 585,
+      "path": "./photos/OvO/egg175.jpg",
+      "compressed_path": "./photos/OvO/egg175.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/OvO/egg175.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png",
-      "path": "./photos/Mockups/glossary.png"
+      "width": 584,
+      "height": 585,
+      "path": "./photos/OvO/egg172.jpg",
+      "compressed_path": "./photos/OvO/egg172.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/OvO/egg172.placeholder.jpg"
     },
     {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
-      "path": "./photos/Mockups/photoframe.png"
+      "width": 823,
+      "height": 585,
+      "path": "./photos/OvO/egg100.jpg",
+      "compressed_path": "./photos/OvO/egg100.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/OvO/egg100.placeholder.jpg"
+    },
+    {
+      "width": 818,
+      "height": 585,
+      "path": "./photos/OvO/egg103.jpg",
+      "compressed_path": "./photos/OvO/egg103.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/OvO/egg103.placeholder.jpg"
+    },
+    {
+      "width": 444,
+      "height": 585,
+      "path": "./photos/OvO/egg85.jpg",
+      "compressed_path": "./photos/OvO/egg85.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/OvO/egg85.placeholder.jpg"
+    },
+    {
+      "width": 589,
+      "height": 585,
+      "path": "./photos/OvO/egg95.jpg",
+      "compressed_path": "./photos/OvO/egg95.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/OvO/egg95.placeholder.jpg"
+    },
+    {
+      "width": 822,
+      "height": 585,
+      "path": "./photos/OvO/egg110.jpg",
+      "compressed_path": "./photos/OvO/egg110.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/OvO/egg110.placeholder.jpg"
     }
   ],
-  "Travel Photography": [
+  "Fruit and Vegetable": [
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0219.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0219.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0219.jpg"
+      "width": 526,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/Pomegranate_23 copy.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/Pomegranate_23 copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/Pomegranate_23 copy.placeholder.jpg"
     },
     {
-      "height": 3265,
-      "compressed_path": "./photos/Travel Photography/DSCF1502.min.jpg",
-      "width": 4898,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1502.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1502.jpg"
+      "width": 822,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/Tips copy.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/Tips copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/Tips copy.placeholder.jpg"
     },
     {
-      "height": 2940,
-      "compressed_path": "./photos/Travel Photography/IMG_9966.min.jpg",
-      "width": 2205,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9966.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9966.jpg"
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/Kiwi_3 copy.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/Kiwi_3 copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/Kiwi_3 copy.placeholder.jpg"
     },
     {
-      "height": 4422,
-      "compressed_path": "./photos/Travel Photography/DSCF7399.min.jpg",
-      "width": 3538,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7399.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7399.jpg"
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/Kiwi_2 copy.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/Kiwi_2 copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/Kiwi_2 copy.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8091.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8091.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8091.jpg"
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/_MG_0174a.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/_MG_0174a.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/_MG_0174a.placeholder.jpg"
     },
     {
-      "height": 4080,
-      "compressed_path": "./photos/Travel Photography/DSCF4244.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4244.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4244.jpg"
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/Apple_2 copy.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/Apple_2 copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/Apple_2 copy.placeholder.jpg"
     },
     {
-      "height": 3151,
-      "compressed_path": "./photos/Travel Photography/DSCF1894.min.jpg",
-      "width": 2363,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1894.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1894.jpg"
+      "width": 279,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/Pomegranate_32 copy.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/Pomegranate_32 copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/Pomegranate_32 copy.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8053.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8053.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8053.jpg"
+      "width": 652,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/_MG_0148.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/_MG_0148.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/_MG_0148.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8196.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8196.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8196.jpg"
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/Pomegranate_5 copy.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/Pomegranate_5 copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/Pomegranate_5 copy.placeholder.jpg"
     },
     {
-      "height": 3808,
-      "compressed_path": "./photos/Travel Photography/DSCF2242.min.jpg",
-      "width": 2856,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF2242.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF2242.jpg"
+      "width": 584,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/_MG_0150.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/_MG_0150.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/_MG_0150.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF0989(1).min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0989(1).placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0989(1).jpg"
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/Fig_2 copy.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/Fig_2 copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/Fig_2 copy.placeholder.jpg"
     },
     {
-      "height": 4062,
-      "compressed_path": "./photos/Travel Photography/DSCF8958.min.jpg",
-      "width": 3250,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8958.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8958.jpg"
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/Pomegranate_36 copy.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/Pomegranate_36 copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/Pomegranate_36 copy.placeholder.jpg"
     },
     {
-      "height": 4415,
-      "compressed_path": "./photos/Travel Photography/IMG_0072.min.jpg",
-      "width": 3311,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_0072.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_0072.jpg"
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/_MG_0146.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/_MG_0146.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/_MG_0146.placeholder.jpg"
     },
     {
-      "height": 4899,
-      "compressed_path": "./photos/Travel Photography/DSCF0860.min.jpg",
-      "width": 3266,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0860.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0860.jpg"
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/Webbing copy.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/Webbing copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/Webbing copy.placeholder.jpg"
     },
     {
-      "height": 3388,
-      "compressed_path": "./photos/Travel Photography/IMG_9863.min.jpg",
-      "width": 2541,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9863.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_9863.jpg"
+      "width": 435,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/Snail_Side copy.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/Snail_Side copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/Snail_Side copy.placeholder.jpg"
     },
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF0138.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0138.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF0138.jpg"
+      "width": 780,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/_MG_0194.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/_MG_0194.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/_MG_0194.placeholder.jpg"
     },
     {
-      "height": 4149,
-      "compressed_path": "./photos/Travel Photography/20160406-20160505DSCF2086.min.jpg",
-      "width": 3112,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg",
-      "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg"
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/_MG_0154.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/_MG_0154.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/_MG_0154.placeholder.jpg"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF1802.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1802.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1802.jpg"
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Fruit and Vegetable/Apple_1 copy.jpg",
+      "compressed_path": "./photos/Fruit and Vegetable/Apple_1 copy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Fruit and Vegetable/Apple_1 copy.placeholder.jpg"
+    }
+  ],
+  "Graffiti (Mordanc\u0327age)": [
+    {
+      "width": 832,
+      "height": 1170,
+      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage111Grafitti.jpg",
+      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage111Grafitti.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage111Grafitti.placeholder.jpg"
     },
     {
-      "height": 4352,
-      "compressed_path": "./photos/Travel Photography/DSCF3621.min.jpg",
-      "width": 3264,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF3621.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF3621.jpg"
+      "width": 1693,
+      "height": 1170,
+      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage006.jpg",
+      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage006.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage006.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8993.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8993.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8993.jpg"
+      "width": 1583,
+      "height": 1170,
+      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage108Grafitti.jpg",
+      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage108Grafitti.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage108Grafitti.placeholder.jpg"
     },
     {
-      "height": 4898,
-      "compressed_path": "./photos/Travel Photography/DSCF8103.min.jpg",
-      "width": 3265,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8103.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8103.jpg"
+      "width": 1619,
+      "height": 1170,
+      "path": "./photos/Graffiti (Mordanc\u0327age)/Grafitti_Mordancage008.jpg",
+      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Grafitti_Mordancage008.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Grafitti_Mordancage008.placeholder.jpg"
     },
     {
-      "height": 3943,
-      "compressed_path": "./photos/Travel Photography/DSCF5784.min.jpg",
-      "width": 3154,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5784.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5784.jpg"
+      "width": 727,
+      "height": 1170,
+      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage125Grafitti.jpg",
+      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage125Grafitti.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage125Grafitti.placeholder.jpg"
     },
     {
-      "height": 3264,
-      "compressed_path": "./photos/Travel Photography/DSCF4538.min.jpg",
-      "width": 2611,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4538.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF4538.jpg"
+      "width": 1615,
+      "height": 1170,
+      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage120Grafitti.jpg",
+      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage120Grafitti.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage120Grafitti.placeholder.jpg"
     },
     {
-      "height": 3000,
-      "compressed_path": "./photos/Travel Photography/DSCF1252.min.jpg",
-      "width": 5332,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1252.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF1252.jpg"
+      "width": 772,
+      "height": 1170,
+      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage112Grafitti.jpg",
+      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage112Grafitti.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage112Grafitti.placeholder.jpg"
     },
     {
-      "height": 3962,
-      "compressed_path": "./photos/Travel Photography/DSCF5636.min.jpg",
-      "width": 3170,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5636.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF5636.jpg"
+      "width": 768,
+      "height": 1170,
+      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage115Grafitti.jpg",
+      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage115Grafitti.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage115Grafitti.placeholder.jpg"
     },
     {
-      "height": 2848,
-      "compressed_path": "./photos/Travel Photography/IMG_7575.min.jpg",
-      "width": 3797,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_7575.placeholder.jpg",
-      "path": "./photos/Travel Photography/IMG_7575.jpg"
+      "width": 1576,
+      "height": 1170,
+      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage119Grafitti.jpg",
+      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage119Grafitti.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage119Grafitti.placeholder.jpg"
     },
     {
-      "height": 4472,
-      "compressed_path": "./photos/Travel Photography/DSCF8846.min.jpg",
-      "width": 3578,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8846.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF8846.jpg"
+      "width": 1765,
+      "height": 1170,
+      "path": "./photos/Graffiti (Mordanc\u0327age)/Grafitti_Mordancage007.jpg",
+      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Grafitti_Mordancage007.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Grafitti_Mordancage007.placeholder.jpg"
+    }
+  ],
+  "Newton": [
+    {
+      "width": 1034,
+      "height": 1170,
+      "path": "./photos/Newton/Mordancage100Portrait.jpg",
+      "compressed_path": "./photos/Newton/Mordancage100Portrait.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Newton/Mordancage100Portrait.placeholder.jpg"
     },
     {
-      "height": 3399,
-      "compressed_path": "./photos/Travel Photography/DSCF7355.min.jpg",
-      "width": 2719,
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7355.placeholder.jpg",
-      "path": "./photos/Travel Photography/DSCF7355.jpg"
+      "width": 945,
+      "height": 1170,
+      "path": "./photos/Newton/Mordancage106Apple.jpg",
+      "compressed_path": "./photos/Newton/Mordancage106Apple.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Newton/Mordancage106Apple.placeholder.jpg"
+    },
+    {
+      "width": 1113,
+      "height": 1170,
+      "path": "./photos/Newton/Newton118.jpg",
+      "compressed_path": "./photos/Newton/Newton118.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Newton/Newton118.placeholder.jpg"
+    }
+  ],
+  "Tokyo": [
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN15.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN15.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN15.placeholder.jpg"
+    },
+    {
+      "width": 583,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN01.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN01.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN01.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN001.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN001.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN001.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN02.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN02.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN02.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN003.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN003.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN003.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN002.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN002.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN002.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN03.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN03.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN03.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN13.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN13.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN13.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN006.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN006.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN006.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN12.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN12.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN12.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN06.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN06.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN06.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN10.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN10.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN10.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN04.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN04.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN04.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN005.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN005.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN005.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN004.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN004.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN004.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN05.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN05.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN05.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN11.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN11.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN11.placeholder.jpg"
+    },
+    {
+      "width": 860,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN07Wide.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN07Wide.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN07Wide.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN08.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN08.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN08.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN09.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN09.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN09.placeholder.jpg"
+    }
+  ],
+  "Gutenberg": [
+    {
+      "width": 1032,
+      "height": 585,
+      "path": "./photos/Gutenberg/Gutenberg002.jpg",
+      "compressed_path": "./photos/Gutenberg/Gutenberg002.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gutenberg/Gutenberg002.placeholder.jpg"
+    },
+    {
+      "width": 1079,
+      "height": 585,
+      "path": "./photos/Gutenberg/Gutenberg017.jpg",
+      "compressed_path": "./photos/Gutenberg/Gutenberg017.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gutenberg/Gutenberg017.placeholder.jpg"
+    },
+    {
+      "width": 793,
+      "height": 585,
+      "path": "./photos/Gutenberg/Gutenberg001.jpg",
+      "compressed_path": "./photos/Gutenberg/Gutenberg001.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gutenberg/Gutenberg001.placeholder.jpg"
+    },
+    {
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Gutenberg/Gutenberg005.jpg",
+      "compressed_path": "./photos/Gutenberg/Gutenberg005.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gutenberg/Gutenberg005.placeholder.jpg"
+    },
+    {
+      "width": 890,
+      "height": 585,
+      "path": "./photos/Gutenberg/Gutenberg008.jpg",
+      "compressed_path": "./photos/Gutenberg/Gutenberg008.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gutenberg/Gutenberg008.placeholder.jpg"
+    },
+    {
+      "width": 1037,
+      "height": 585,
+      "path": "./photos/Gutenberg/Gutenberg020.jpg",
+      "compressed_path": "./photos/Gutenberg/Gutenberg020.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gutenberg/Gutenberg020.placeholder.jpg"
+    },
+    {
+      "width": 414,
+      "height": 585,
+      "path": "./photos/Gutenberg/Gutenberg024.jpg",
+      "compressed_path": "./photos/Gutenberg/Gutenberg024.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gutenberg/Gutenberg024.placeholder.jpg"
+    }
+  ],
+  "Chair": [
+    {
+      "width": 858,
+      "height": 585,
+      "path": "./photos/Chair/chair6.jpg",
+      "compressed_path": "./photos/Chair/chair6.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chair/chair6.placeholder.jpg"
+    },
+    {
+      "width": 891,
+      "height": 585,
+      "path": "./photos/Chair/chair7.jpg",
+      "compressed_path": "./photos/Chair/chair7.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chair/chair7.placeholder.jpg"
+    },
+    {
+      "width": 875,
+      "height": 585,
+      "path": "./photos/Chair/chair5.jpg",
+      "compressed_path": "./photos/Chair/chair5.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chair/chair5.placeholder.jpg"
+    },
+    {
+      "width": 853,
+      "height": 585,
+      "path": "./photos/Chair/chair4.jpg",
+      "compressed_path": "./photos/Chair/chair4.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chair/chair4.placeholder.jpg"
+    },
+    {
+      "width": 866,
+      "height": 585,
+      "path": "./photos/Chair/chair1.jpg",
+      "compressed_path": "./photos/Chair/chair1.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chair/chair1.placeholder.jpg"
+    },
+    {
+      "width": 875,
+      "height": 585,
+      "path": "./photos/Chair/chair3.jpg",
+      "compressed_path": "./photos/Chair/chair3.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chair/chair3.placeholder.jpg"
+    },
+    {
+      "width": 868,
+      "height": 585,
+      "path": "./photos/Chair/chair2.jpg",
+      "compressed_path": "./photos/Chair/chair2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chair/chair2.placeholder.jpg"
+    },
+    {
+      "width": 873,
+      "height": 585,
+      "path": "./photos/Chair/chair9.jpg",
+      "compressed_path": "./photos/Chair/chair9.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chair/chair9.placeholder.jpg"
+    },
+    {
+      "width": 849,
+      "height": 585,
+      "path": "./photos/Chair/chair8.jpg",
+      "compressed_path": "./photos/Chair/chair8.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chair/chair8.placeholder.jpg"
+    }
+  ],
+  "Miscellaneous": [
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Miscellaneous/BabySpider.jpg",
+      "compressed_path": "./photos/Miscellaneous/BabySpider.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Miscellaneous/BabySpider.placeholder.jpg"
+    },
+    {
+      "width": 499,
+      "height": 585,
+      "path": "./photos/Miscellaneous/Fireworks.jpg",
+      "compressed_path": "./photos/Miscellaneous/Fireworks.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Miscellaneous/Fireworks.placeholder.jpg"
+    },
+    {
+      "width": 1712,
+      "height": 1170,
+      "path": "./photos/Miscellaneous/Chromo_Mordancage013.jpg",
+      "compressed_path": "./photos/Miscellaneous/Chromo_Mordancage013.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Miscellaneous/Chromo_Mordancage013.placeholder.jpg"
+    },
+    {
+      "width": 375,
+      "height": 585,
+      "path": "./photos/Miscellaneous/Sepia008.jpg",
+      "compressed_path": "./photos/Miscellaneous/Sepia008.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Miscellaneous/Sepia008.placeholder.jpg"
+    },
+    {
+      "width": 664,
+      "height": 585,
+      "path": "./photos/Miscellaneous/Sepia009.jpg",
+      "compressed_path": "./photos/Miscellaneous/Sepia009.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Miscellaneous/Sepia009.placeholder.jpg"
+    },
+    {
+      "width": 1716,
+      "height": 1170,
+      "path": "./photos/Miscellaneous/Chromo_Mordancage012.jpg",
+      "compressed_path": "./photos/Miscellaneous/Chromo_Mordancage012.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Miscellaneous/Chromo_Mordancage012.placeholder.jpg"
+    },
+    {
+      "width": 1441,
+      "height": 1170,
+      "path": "./photos/Miscellaneous/IR_Leaves124.jpg",
+      "compressed_path": "./photos/Miscellaneous/IR_Leaves124.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Miscellaneous/IR_Leaves124.placeholder.jpg"
+    },
+    {
+      "width": 642,
+      "height": 585,
+      "path": "./photos/Miscellaneous/Nest.jpg",
+      "compressed_path": "./photos/Miscellaneous/Nest.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Miscellaneous/Nest.placeholder.jpg"
+    },
+    {
+      "width": 586,
+      "height": 585,
+      "path": "./photos/Miscellaneous/_MG_0009.jpg",
+      "compressed_path": "./photos/Miscellaneous/_MG_0009.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Miscellaneous/_MG_0009.placeholder.jpg"
+    },
+    {
+      "width": 585,
+      "height": 585,
+      "path": "./photos/Miscellaneous/SpiralTree.jpg",
+      "compressed_path": "./photos/Miscellaneous/SpiralTree.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Miscellaneous/SpiralTree.placeholder.jpg"
+    },
+    {
+      "width": 809,
+      "height": 585,
+      "path": "./photos/Miscellaneous/Sepia005.jpg",
+      "compressed_path": "./photos/Miscellaneous/Sepia005.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Miscellaneous/Sepia005.placeholder.jpg"
+    },
+    {
+      "width": 1022,
+      "height": 585,
+      "path": "./photos/Miscellaneous/LegoinSpace.jpg",
+      "compressed_path": "./photos/Miscellaneous/LegoinSpace.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Miscellaneous/LegoinSpace.placeholder.jpg"
+    },
+    {
+      "width": 810,
+      "height": 585,
+      "path": "./photos/Miscellaneous/Sepia002.jpg",
+      "compressed_path": "./photos/Miscellaneous/Sepia002.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Miscellaneous/Sepia002.placeholder.jpg"
+    }
+  ],
+  "Natural Definition": [
+    {
+      "width": 850,
+      "height": 2721,
+      "path": "./photos/Natural Definition/NatDef.jpg",
+      "compressed_path": "./photos/Natural Definition/NatDef.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Natural Definition/NatDef.placeholder.jpg"
+    }
+  ],
+  "Chromoskedasic Mordanc\u0327age": [
+    {
+      "width": 1582,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage001.jpg",
+      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage001.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage001.placeholder.jpg"
+    },
+    {
+      "width": 1582,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage002.jpg",
+      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage002.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage002.placeholder.jpg"
+    },
+    {
+      "width": 1612,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage007.jpg",
+      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage007.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage007.placeholder.jpg"
+    },
+    {
+      "width": 958,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage010.jpg",
+      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage010.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage010.placeholder.jpg"
+    },
+    {
+      "width": 1518,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage005.jpg",
+      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage005.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage005.placeholder.jpg"
+    },
+    {
+      "width": 866,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage010.jpg",
+      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage010.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage010.placeholder.jpg"
+    },
+    {
+      "width": 963,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage006.jpg",
+      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage006.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage006.placeholder.jpg"
+    },
+    {
+      "width": 869,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage007.jpg",
+      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage007.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage007.placeholder.jpg"
+    },
+    {
+      "width": 828,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage008.jpg",
+      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage008.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage008.placeholder.jpg"
+    },
+    {
+      "width": 877,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage008.jpg",
+      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage008.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage008.placeholder.jpg"
+    },
+    {
+      "width": 951,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage009.jpg",
+      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage009.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage009.placeholder.jpg"
+    }
+  ],
+  "Dwellings": [
+    {
+      "width": 737,
+      "height": 585,
+      "path": "./photos/Dwellings/house.jpg",
+      "compressed_path": "./photos/Dwellings/house.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dwellings/house.placeholder.jpg"
+    },
+    {
+      "width": 722,
+      "height": 585,
+      "path": "./photos/Dwellings/cottage.jpg",
+      "compressed_path": "./photos/Dwellings/cottage.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dwellings/cottage.placeholder.jpg"
+    },
+    {
+      "width": 432,
+      "height": 585,
+      "path": "./photos/Dwellings/shack.jpg",
+      "compressed_path": "./photos/Dwellings/shack.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dwellings/shack.placeholder.jpg"
+    },
+    {
+      "width": 645,
+      "height": 585,
+      "path": "./photos/Dwellings/Trees.jpg",
+      "compressed_path": "./photos/Dwellings/Trees.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dwellings/Trees.placeholder.jpg"
+    },
+    {
+      "width": 708,
+      "height": 585,
+      "path": "./photos/Dwellings/Barn1.jpg",
+      "compressed_path": "./photos/Dwellings/Barn1.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dwellings/Barn1.placeholder.jpg"
+    },
+    {
+      "width": 841,
+      "height": 585,
+      "path": "./photos/Dwellings/Barn2.jpg",
+      "compressed_path": "./photos/Dwellings/Barn2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dwellings/Barn2.placeholder.jpg"
+    },
+    {
+      "width": 336,
+      "height": 585,
+      "path": "./photos/Dwellings/CottageVertical.jpg",
+      "compressed_path": "./photos/Dwellings/CottageVertical.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Dwellings/CottageVertical.placeholder.jpg"
+    }
+  ],
+  "Bones": [
+    {
+      "width": 899,
+      "height": 767,
+      "path": "./photos/Bones/Mordancage002.jpg",
+      "compressed_path": "./photos/Bones/Mordancage002.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Bones/Mordancage002.placeholder.jpg"
+    },
+    {
+      "width": 683,
+      "height": 1014,
+      "path": "./photos/Bones/Mordancage001.jpg",
+      "compressed_path": "./photos/Bones/Mordancage001.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Bones/Mordancage001.placeholder.jpg"
+    },
+    {
+      "width": 840,
+      "height": 1170,
+      "path": "./photos/Bones/Nautilus_Mordancage001.jpg",
+      "compressed_path": "./photos/Bones/Nautilus_Mordancage001.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Bones/Nautilus_Mordancage001.placeholder.jpg"
+    }
+  ],
+  "Microscopy": [
+    {
+      "width": 5713,
+      "height": 4096,
+      "path": "./photos/Microscopy/LCD C_Upsized.jpeg",
+      "compressed_path": "./photos/Microscopy/LCD C_Upsized.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/LCD C_Upsized.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Leaf_Ficus_8.jpeg",
+      "compressed_path": "./photos/Microscopy/Leaf_Ficus_8.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Leaf_Ficus_8.placeholder.jpeg"
+    },
+    {
+      "width": 5889,
+      "height": 4096,
+      "path": "./photos/Microscopy/Tear 6_Upsized.jpeg",
+      "compressed_path": "./photos/Microscopy/Tear 6_Upsized.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Tear 6_Upsized.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Shitake_1.jpeg",
+      "compressed_path": "./photos/Microscopy/Shitake_1.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Shitake_1.placeholder.jpeg"
+    },
+    {
+      "width": 6027,
+      "height": 3952,
+      "path": "./photos/Microscopy/LCD RGB 9_Upsized.jpeg",
+      "compressed_path": "./photos/Microscopy/LCD RGB 9_Upsized.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/LCD RGB 9_Upsized.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Seed_Clematis_18.jpeg",
+      "compressed_path": "./photos/Microscopy/Seed_Clematis_18.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Seed_Clematis_18.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/LCD B_Upsized.jpeg",
+      "compressed_path": "./photos/Microscopy/LCD B_Upsized.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/LCD B_Upsized.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Bird_Eye_Fluid_2.jpeg",
+      "compressed_path": "./photos/Microscopy/Bird_Eye_Fluid_2.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Bird_Eye_Fluid_2.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Bird_Brain_5.jpeg",
+      "compressed_path": "./photos/Microscopy/Bird_Brain_5.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Bird_Brain_5.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Pigment Yellow 5_Upsized.jpeg",
+      "compressed_path": "./photos/Microscopy/Pigment Yellow 5_Upsized.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Pigment Yellow 5_Upsized.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Chestnut Blossom.jpeg",
+      "compressed_path": "./photos/Microscopy/Chestnut Blossom.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Chestnut Blossom.placeholder.jpeg"
+    },
+    {
+      "width": 5757,
+      "height": 4096,
+      "path": "./photos/Microscopy/Pigment Blue 10_Upsized.jpeg",
+      "compressed_path": "./photos/Microscopy/Pigment Blue 10_Upsized.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Pigment Blue 10_Upsized.placeholder.jpeg"
+    },
+    {
+      "width": 5933,
+      "height": 3947,
+      "path": "./photos/Microscopy/Leaf 4_Upsized.jpeg",
+      "compressed_path": "./photos/Microscopy/Leaf 4_Upsized.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Leaf 4_Upsized.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Tardigrade_High_13.jpeg",
+      "compressed_path": "./photos/Microscopy/Tardigrade_High_13.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Tardigrade_High_13.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Champignon_4.jpeg",
+      "compressed_path": "./photos/Microscopy/Champignon_4.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Champignon_4.placeholder.jpeg"
+    },
+    {
+      "width": 5818,
+      "height": 4096,
+      "path": "./photos/Microscopy/Pigment Red 1_Upsized.jpeg",
+      "compressed_path": "./photos/Microscopy/Pigment Red 1_Upsized.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Pigment Red 1_Upsized.placeholder.jpeg"
+    },
+    {
+      "width": 4068,
+      "height": 6181,
+      "path": "./photos/Microscopy/Pencil_Tip_14.jpeg",
+      "compressed_path": "./photos/Microscopy/Pencil_Tip_14.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Pencil_Tip_14.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Stamen_Bellis perennis_12.jpeg",
+      "compressed_path": "./photos/Microscopy/Stamen_Bellis perennis_12.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Stamen_Bellis perennis_12.placeholder.jpeg"
+    },
+    {
+      "width": 5898,
+      "height": 4035,
+      "path": "./photos/Microscopy/Bird_Feather_12.jpeg",
+      "compressed_path": "./photos/Microscopy/Bird_Feather_12.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Bird_Feather_12.placeholder.jpeg"
+    },
+    {
+      "width": 5810,
+      "height": 4096,
+      "path": "./photos/Microscopy/Ink Fountain Pen 5_Upsized.jpeg",
+      "compressed_path": "./photos/Microscopy/Ink Fountain Pen 5_Upsized.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Ink Fountain Pen 5_Upsized.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Stamen_Taxus baccata_11.jpeg",
+      "compressed_path": "./photos/Microscopy/Stamen_Taxus baccata_11.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Stamen_Taxus baccata_11.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Mold-Shimeji.jpeg",
+      "compressed_path": "./photos/Microscopy/Mold-Shimeji.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Mold-Shimeji.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Wasp_Eye_10.jpeg",
+      "compressed_path": "./photos/Microscopy/Wasp_Eye_10.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Wasp_Eye_10.placeholder.jpeg"
+    },
+    {
+      "width": 4096,
+      "height": 4096,
+      "path": "./photos/Microscopy/Seeds_Clematis_16.jpeg",
+      "compressed_path": "./photos/Microscopy/Seeds_Clematis_16.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Seeds_Clematis_16.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Blood_7.jpeg",
+      "compressed_path": "./photos/Microscopy/Blood_7.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Blood_7.placeholder.jpeg"
+    },
+    {
+      "width": 4096,
+      "height": 6144,
+      "path": "./photos/Microscopy/Leaf Cells_Upsized.jpeg",
+      "compressed_path": "./photos/Microscopy/Leaf Cells_Upsized.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Leaf Cells_Upsized.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Shimeji.jpeg",
+      "compressed_path": "./photos/Microscopy/Shimeji.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Shimeji.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Aqueous Humor Buzzard - Med.jpeg",
+      "compressed_path": "./photos/Microscopy/Aqueous Humor Buzzard - Med.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Aqueous Humor Buzzard - Med.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Petal_Prunus_15.jpeg",
+      "compressed_path": "./photos/Microscopy/Petal_Prunus_15.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Petal_Prunus_15.placeholder.jpeg"
+    },
+    {
+      "width": 6144,
+      "height": 4096,
+      "path": "./photos/Microscopy/Paper_Ink_Line_1.jpeg",
+      "compressed_path": "./photos/Microscopy/Paper_Ink_Line_1.min.jpeg",
+      "compressed": false,
+      "placeholder_path": "./photos/Microscopy/Paper_Ink_Line_1.placeholder.jpeg"
+    }
+  ],
+  "Mordanc\u0327age": [
+    {
+      "width": 725,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage010.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage010.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage010.placeholder.jpg"
+    },
+    {
+      "width": 1229,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage004.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage004.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage004.placeholder.jpg"
+    },
+    {
+      "width": 1582,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage005.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage005.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage005.placeholder.jpg"
+    },
+    {
+      "width": 842,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage013.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage013.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage013.placeholder.jpg"
+    },
+    {
+      "width": 770,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage012.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage012.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage012.placeholder.jpg"
+    },
+    {
+      "width": 1635,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage002.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage002.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage002.placeholder.jpg"
+    },
+    {
+      "width": 1344,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage016.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage016.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage016.placeholder.jpg"
+    },
+    {
+      "width": 1638,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage017.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage017.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage017.placeholder.jpg"
+    },
+    {
+      "width": 1586,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage003.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage003.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage003.placeholder.jpg"
+    },
+    {
+      "width": 752,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage014.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage014.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage014.placeholder.jpg"
+    },
+    {
+      "width": 874,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/C-Mordancage003.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/C-Mordancage003.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/C-Mordancage003.placeholder.jpg"
+    },
+    {
+      "width": 960,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/C-Mordancage002.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/C-Mordancage002.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/C-Mordancage002.placeholder.jpg"
+    },
+    {
+      "width": 840,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/C-Mordancage001.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/C-Mordancage001.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/C-Mordancage001.placeholder.jpg"
+    },
+    {
+      "width": 930,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Dom_Mordancage300dpi.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Dom_Mordancage300dpi.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Dom_Mordancage300dpi.placeholder.jpg"
+    },
+    {
+      "width": 771,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage114Van.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage114Van.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage114Van.placeholder.jpg"
+    },
+    {
+      "width": 1162,
+      "height": 619,
+      "path": "./photos/Mordanc\u0327age/Mordancage_Main.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage_Main.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage_Main.placeholder.jpg"
+    },
+    {
+      "width": 894,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Tomb_Mordancage.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Tomb_Mordancage.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Tomb_Mordancage.placeholder.jpg"
+    },
+    {
+      "width": 903,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage113Van.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage113Van.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage113Van.placeholder.jpg"
+    },
+    {
+      "width": 838,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage019.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage019.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage019.placeholder.jpg"
+    },
+    {
+      "width": 1274,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage032.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage032.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage032.placeholder.jpg"
+    },
+    {
+      "width": 816,
+      "height": 1170,
+      "path": "./photos/Mordanc\u0327age/Mordancage020.jpg",
+      "compressed_path": "./photos/Mordanc\u0327age/Mordancage020.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage020.placeholder.jpg"
     }
   ]
 }
