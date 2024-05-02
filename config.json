@@ -3,18 +3,18 @@
     {
       "width": 899,
       "height": 767,
-      "path": "./photos/Bones/Mordancage002.jpg",
-      "compressed_path": "./photos/Bones/Mordancage002.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Bones/Mordancage002.placeholder.jpg"
-    },
-    {
-      "width": 683,
-      "height": 1014,
       "path": "./photos/Bones/Mordancage001.jpg",
       "compressed_path": "./photos/Bones/Mordancage001.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Bones/Mordancage001.placeholder.jpg"
+    },
+    {
+      "width": 683,
+      "height": 1014,
+      "path": "./photos/Bones/Mordancage002.jpg",
+      "compressed_path": "./photos/Bones/Mordancage002.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Bones/Mordancage002.placeholder.jpg"
     },
     {
       "width": 840,
@@ -26,14 +26,6 @@
     }
   ],
   "Newton": [
-    {
-      "width": 1034,
-      "height": 1170,
-      "path": "./photos/Newton/Mordancage100Portrait.jpg",
-      "compressed_path": "./photos/Newton/Mordancage100Portrait.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Newton/Mordancage100Portrait.placeholder.jpg"
-    },
     {
       "width": 945,
       "height": 1170,
@@ -49,9 +41,25 @@
       "compressed_path": "./photos/Newton/Newton118.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Newton/Newton118.placeholder.jpg"
+    },
+    {
+      "width": 1034,
+      "height": 1170,
+      "path": "./photos/Newton/Mordancage100Portrait.jpg",
+      "compressed_path": "./photos/Newton/Mordancage100Portrait.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Newton/Mordancage100Portrait.placeholder.jpg"
     }
   ],
   "Mordancage": [
+    {
+      "width": 930,
+      "height": 1170,
+      "path": "./photos/Mordancage/Mordancage018.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage018.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordancage/Mordancage018.placeholder.jpg"
+    },
     {
       "width": 1229,
       "height": 1170,
@@ -165,14 +173,6 @@
       "placeholder_path": "./photos/Mordancage/Mordancage019.placeholder.jpg"
     },
     {
-      "width": 930,
-      "height": 1170,
-      "path": "./photos/Mordancage/Mordancage018.jpg",
-      "compressed_path": "./photos/Mordancage/Mordancage018.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordancage/Mordancage018.placeholder.jpg"
-    },
-    {
       "width": 1274,
       "height": 1170,
       "path": "./photos/Mordancage/Mordancage032.jpg",
@@ -239,7 +239,7 @@
       "placeholder_path": "./photos/Chromoskedasic-Mordancage/Chromo_Mordancage009.placeholder.jpg"
     }
   ],
-  "Graffiti": [
+  "Graffiti-Mordancage": [
     {
       "width": 832,
       "height": 1170,
@@ -459,14 +459,6 @@
       "placeholder_path": "./photos/Tokyo/JapanDN11.placeholder.jpg"
     },
     {
-      "width": 860,
-      "height": 585,
-      "path": "./photos/Tokyo/JapanDN07Wide.jpg",
-      "compressed_path": "./photos/Tokyo/JapanDN07Wide.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Tokyo/JapanDN07Wide.placeholder.jpg"
-    },
-    {
       "width": 585,
       "height": 585,
       "path": "./photos/Tokyo/JapanDN08.jpg",
@@ -481,6 +473,14 @@
       "compressed_path": "./photos/Tokyo/JapanDN09.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Tokyo/JapanDN09.placeholder.jpg"
+    },
+    {
+      "width": 860,
+      "height": 585,
+      "path": "./photos/Tokyo/JapanDN07Wide.jpg",
+      "compressed_path": "./photos/Tokyo/JapanDN07Wide.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Tokyo/JapanDN07Wide.placeholder.jpg"
     }
   ],
   "Gutenberg": [
@@ -753,6 +753,62 @@
   ],
    "Food": [
     {
+      "width": 435,
+      "height": 585,
+      "path": "./photos/Food/1.jpg",
+      "compressed_path": "./photos/Food/1.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/1.placeholder.jpg"
+    },
+    {
+      "width": 822,
+      "height": 585,
+      "path": "./photos/Food/2.jpg",
+      "compressed_path": "./photos/Food/2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/2.placeholder.jpg"
+    },
+    {
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Food/3.jpg",
+      "compressed_path": "./photos/Food/3.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/3.placeholder.jpg"
+    },
+    {
+      "width": 279,
+      "height": 585,
+      "path": "./photos/Food/4.jpg",
+      "compressed_path": "./photos/Food/4.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/4.placeholder.jpg"
+    },
+    {
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Food/5.jpg",
+      "compressed_path": "./photos/Food/5.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/5.placeholder.jpg"
+    },
+    {
+      "width": 526,
+      "height": 585,
+      "path": "./photos/Food/6.jpg",
+      "compressed_path": "./photos/Food/6.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/6.placeholder.jpg"
+    },
+    {
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Food/7.jpg",
+      "compressed_path": "./photos/Food/7.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/7.placeholder.jpg"
+    },
+    {
       "width": 878,
       "height": 585,
       "path": "./photos/Food/8.jpg",
@@ -767,62 +823,6 @@
       "compressed_path": "./photos/Food/9.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Food/9.placeholder.jpg"
-    },
-    {
-      "width": 279,
-      "height": 585,
-      "path": "./photos/Food/4.jpg",
-      "compressed_path": "./photos/Food/4.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Food/4.placeholder.jpg"
-    },
-    {
-      "width": 878,
-      "height": 585,
-      "path": "./photos/Food/95.jpg",
-      "compressed_path": "./photos/Food/95.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Food/95.placeholder.jpg"
-    },
-    {
-      "width": 878,
-      "height": 585,
-      "path": "./photos/Food/94.jpg",
-      "compressed_path": "./photos/Food/94.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Food/94.placeholder.jpg"
-    },
-    {
-      "width": 878,
-      "height": 585,
-      "path": "./photos/Food/5.jpg",
-      "compressed_path": "./photos/Food/5.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Food/5.placeholder.jpg"
-    },
-    {
-      "width": 878,
-      "height": 585,
-      "path": "./photos/Food/7.jpg",
-      "compressed_path": "./photos/Food/7.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Food/7.placeholder.jpg"
-    },
-    {
-      "width": 526,
-      "height": 585,
-      "path": "./photos/Food/6.jpg",
-      "compressed_path": "./photos/Food/6.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Food/6.placeholder.jpg"
-    },
-    {
-      "width": 822,
-      "height": 585,
-      "path": "./photos/Food/2.jpg",
-      "compressed_path": "./photos/Food/2.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Food/2.placeholder.jpg"
     },
     {
       "width": 878,
@@ -843,18 +843,18 @@
     {
       "width": 878,
       "height": 585,
-      "path": "./photos/Food/3.jpg",
-      "compressed_path": "./photos/Food/3.min.jpg",
+      "path": "./photos/Food/95.jpg",
+      "compressed_path": "./photos/Food/95.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Food/3.placeholder.jpg"
+      "placeholder_path": "./photos/Food/95.placeholder.jpg"
     },
     {
-      "width": 435,
+      "width": 878,
       "height": 585,
-      "path": "./photos/Food/1.jpg",
-      "compressed_path": "./photos/Food/1.min.jpg",
+      "path": "./photos/Food/94.jpg",
+      "compressed_path": "./photos/Food/94.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Food/1.placeholder.jpg"
+      "placeholder_path": "./photos/Food/94.placeholder.jpg"
     },
     {
       "width": 878,
@@ -916,6 +916,22 @@
     }
   ],
    "OvO": [
+     {
+      "width": 444,
+      "height": 585,
+      "path": "./photos/OvO/egg85.jpg",
+      "compressed_path": "./photos/OvO/egg85.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/OvO/egg85.placeholder.jpg"
+    },
+    {
+      "width": 589,
+      "height": 585,
+      "path": "./photos/OvO/egg95.jpg",
+      "compressed_path": "./photos/OvO/egg95.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/OvO/egg95.placeholder.jpg"
+    },
     {
       "width": 449,
       "height": 585,
@@ -963,22 +979,6 @@
       "compressed_path": "./photos/OvO/egg103.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/OvO/egg103.placeholder.jpg"
-    },
-    {
-      "width": 444,
-      "height": 585,
-      "path": "./photos/OvO/egg85.jpg",
-      "compressed_path": "./photos/OvO/egg85.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/OvO/egg85.placeholder.jpg"
-    },
-    {
-      "width": 589,
-      "height": 585,
-      "path": "./photos/OvO/egg95.jpg",
-      "compressed_path": "./photos/OvO/egg95.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/OvO/egg95.placeholder.jpg"
     },
     {
       "width": 822,
@@ -1091,26 +1091,26 @@
     {
       "width": 858,
       "height": 585,
-      "path": "./photos/Chair/chair6.jpg",
-      "compressed_path": "./photos/Chair/chair6.min.jpg",
+      "path": "./photos/Chair/chair1.jpg",
+      "compressed_path": "./photos/Chair/chair1.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chair/chair6.placeholder.jpg"
+      "placeholder_path": "./photos/Chair/chair1.placeholder.jpg"
     },
     {
       "width": 891,
       "height": 585,
-      "path": "./photos/Chair/chair7.jpg",
-      "compressed_path": "./photos/Chair/chair7.min.jpg",
+      "path": "./photos/Chair/chair2.jpg",
+      "compressed_path": "./photos/Chair/chair2.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chair/chair7.placeholder.jpg"
+      "placeholder_path": "./photos/Chair/chair2.placeholder.jpg"
     },
     {
       "width": 875,
       "height": 585,
-      "path": "./photos/Chair/chair5.jpg",
-      "compressed_path": "./photos/Chair/chair5.min.jpg",
+      "path": "./photos/Chair/chair3.jpg",
+      "compressed_path": "./photos/Chair/chair3.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chair/chair5.placeholder.jpg"
+      "placeholder_path": "./photos/Chair/chair3.placeholder.jpg"
     },
     {
       "width": 853,
@@ -1123,42 +1123,42 @@
     {
       "width": 866,
       "height": 585,
-      "path": "./photos/Chair/chair1.jpg",
-      "compressed_path": "./photos/Chair/chair1.min.jpg",
+      "path": "./photos/Chair/chair5.jpg",
+      "compressed_path": "./photos/Chair/chair5.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chair/chair1.placeholder.jpg"
+      "placeholder_path": "./photos/Chair/chair5.placeholder.jpg"
     },
     {
       "width": 875,
       "height": 585,
-      "path": "./photos/Chair/chair3.jpg",
-      "compressed_path": "./photos/Chair/chair3.min.jpg",
+      "path": "./photos/Chair/chair6.jpg",
+      "compressed_path": "./photos/Chair/chair6.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chair/chair3.placeholder.jpg"
+      "placeholder_path": "./photos/Chair/chair6.placeholder.jpg"
     },
     {
       "width": 868,
       "height": 585,
-      "path": "./photos/Chair/chair2.jpg",
-      "compressed_path": "./photos/Chair/chair2.min.jpg",
+      "path": "./photos/Chair/chair7.jpg",
+      "compressed_path": "./photos/Chair/chair7.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chair/chair2.placeholder.jpg"
+      "placeholder_path": "./photos/Chair/chair7.placeholder.jpg"
     },
     {
       "width": 873,
-      "height": 585,
-      "path": "./photos/Chair/chair9.jpg",
-      "compressed_path": "./photos/Chair/chair9.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Chair/chair9.placeholder.jpg"
-    },
-    {
-      "width": 849,
       "height": 585,
       "path": "./photos/Chair/chair8.jpg",
       "compressed_path": "./photos/Chair/chair8.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Chair/chair8.placeholder.jpg"
+    },
+    {
+      "width": 849,
+      "height": 585,
+      "path": "./photos/Chair/chair9.jpg",
+      "compressed_path": "./photos/Chair/chair9.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chair/chair9.placeholder.jpg"
     }
   ],
   "Natural Definition": [
