@@ -155,202 +155,6 @@
       "placeholder_path": "./photos/Graffiti/Mordancage008.placeholder.jpg"
     }
   ],
-  "Fruit and Vegetable": [
-    {
-      "width": 878,
-      "height": 585,
-      "path": "./photos/Fruit and Vegetable/8.jpg",
-      "compressed_path": "./photos/Fruit and Vegetable/8.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fruit and Vegetable/8.placeholder.jpg"
-    },
-    {
-      "width": 878,
-      "height": 585,
-      "path": "./photos/Fruit and Vegetable/9.jpg",
-      "compressed_path": "./photos/Fruit and Vegetable/9.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fruit and Vegetable/9.placeholder.jpg"
-    },
-    {
-      "width": 279,
-      "height": 585,
-      "path": "./photos/Fruit and Vegetable/4.jpg",
-      "compressed_path": "./photos/Fruit and Vegetable/4.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fruit and Vegetable/4.placeholder.jpg"
-    },
-    {
-      "width": 878,
-      "height": 585,
-      "path": "./photos/Fruit and Vegetable/95.jpg",
-      "compressed_path": "./photos/Fruit and Vegetable/95.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fruit and Vegetable/95.placeholder.jpg"
-    },
-    {
-      "width": 878,
-      "height": 585,
-      "path": "./photos/Fruit and Vegetable/94.jpg",
-      "compressed_path": "./photos/Fruit and Vegetable/94.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fruit and Vegetable/94.placeholder.jpg"
-    },
-    {
-      "width": 878,
-      "height": 585,
-      "path": "./photos/Fruit and Vegetable/5.jpg",
-      "compressed_path": "./photos/Fruit and Vegetable/5.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fruit and Vegetable/5.placeholder.jpg"
-    },
-    {
-      "width": 878,
-      "height": 585,
-      "path": "./photos/Fruit and Vegetable/7.jpg",
-      "compressed_path": "./photos/Fruit and Vegetable/7.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fruit and Vegetable/7.placeholder.jpg"
-    },
-    {
-      "width": 526,
-      "height": 585,
-      "path": "./photos/Fruit and Vegetable/6.jpg",
-      "compressed_path": "./photos/Fruit and Vegetable/6.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fruit and Vegetable/6.placeholder.jpg"
-    },
-    {
-      "width": 822,
-      "height": 585,
-      "path": "./photos/Fruit and Vegetable/2.jpg",
-      "compressed_path": "./photos/Fruit and Vegetable/2.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fruit and Vegetable/2.placeholder.jpg"
-    },
-    {
-      "width": 878,
-      "height": 585,
-      "path": "./photos/Fruit and Vegetable/93.jpg",
-      "compressed_path": "./photos/Fruit and Vegetable/93.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fruit and Vegetable/93.placeholder.jpg"
-    },
-    {
-      "width": 652,
-      "height": 585,
-      "path": "./photos/Fruit and Vegetable/92.jpg",
-      "compressed_path": "./photos/Fruit and Vegetable/92.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fruit and Vegetable/92.placeholder.jpg"
-    },
-    {
-      "width": 878,
-      "height": 585,
-      "path": "./photos/Fruit and Vegetable/3.jpg",
-      "compressed_path": "./photos/Fruit and Vegetable/3.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fruit and Vegetable/3.placeholder.jpg"
-    },
-    {
-      "width": 435,
-      "height": 585,
-      "path": "./photos/Fruit and Vegetable/1.jpg",
-      "compressed_path": "./photos/Fruit and Vegetable/1.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fruit and Vegetable/1.placeholder.jpg"
-    },
-    {
-      "width": 878,
-      "height": 585,
-      "path": "./photos/Fruit and Vegetable/91.jpg",
-      "compressed_path": "./photos/Fruit and Vegetable/91.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Fruit and Vegetable/91.placeholder.jpg"
-    }
-  ],
-  "Graffiti (Mordanc\u0327age)": [
-    {
-      "width": 832,
-      "height": 1170,
-      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage111Grafitti.jpg",
-      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage111Grafitti.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage111Grafitti.placeholder.jpg"
-    },
-    {
-      "width": 1693,
-      "height": 1170,
-      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage006.jpg",
-      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage006.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage006.placeholder.jpg"
-    },
-    {
-      "width": 1583,
-      "height": 1170,
-      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage108Grafitti.jpg",
-      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage108Grafitti.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage108Grafitti.placeholder.jpg"
-    },
-    {
-      "width": 1619,
-      "height": 1170,
-      "path": "./photos/Graffiti (Mordanc\u0327age)/Grafitti_Mordancage008.jpg",
-      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Grafitti_Mordancage008.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Grafitti_Mordancage008.placeholder.jpg"
-    },
-    {
-      "width": 727,
-      "height": 1170,
-      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage125Grafitti.jpg",
-      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage125Grafitti.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage125Grafitti.placeholder.jpg"
-    },
-    {
-      "width": 1615,
-      "height": 1170,
-      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage120Grafitti.jpg",
-      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage120Grafitti.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage120Grafitti.placeholder.jpg"
-    },
-    {
-      "width": 772,
-      "height": 1170,
-      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage112Grafitti.jpg",
-      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage112Grafitti.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage112Grafitti.placeholder.jpg"
-    },
-    {
-      "width": 768,
-      "height": 1170,
-      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage115Grafitti.jpg",
-      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage115Grafitti.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage115Grafitti.placeholder.jpg"
-    },
-    {
-      "width": 1576,
-      "height": 1170,
-      "path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage119Grafitti.jpg",
-      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage119Grafitti.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Mordancage119Grafitti.placeholder.jpg"
-    },
-    {
-      "width": 1765,
-      "height": 1170,
-      "path": "./photos/Graffiti (Mordanc\u0327age)/Grafitti_Mordancage007.jpg",
-      "compressed_path": "./photos/Graffiti (Mordanc\u0327age)/Grafitti_Mordancage007.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Graffiti (Mordanc\u0327age)/Grafitti_Mordancage007.placeholder.jpg"
-    }
-  ],
   "Newton": [
     {
       "width": 1034,
@@ -779,94 +583,256 @@
       "placeholder_path": "./photos/Natural Definition/NatDef.placeholder.jpg"
     }
   ],
-  "Chromoskedasic Mordanc\u0327age": [
+  "Food": [
     {
-      "width": 1582,
-      "height": 1170,
-      "path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage001.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage001.min.jpg",
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Food/8.jpg",
+      "compressed_path": "./photos/Food/8.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage001.placeholder.jpg"
+      "placeholder_path": "./photos/Food/8.placeholder.jpg"
+    },
+    {
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Food/9.jpg",
+      "compressed_path": "./photos/Food/9.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/9.placeholder.jpg"
+    },
+    {
+      "width": 279,
+      "height": 585,
+      "path": "./photos/Food/4.jpg",
+      "compressed_path": "./photos/Food/4.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/4.placeholder.jpg"
+    },
+    {
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Food/95.jpg",
+      "compressed_path": "./photos/Food/95.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/95.placeholder.jpg"
+    },
+    {
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Food/94.jpg",
+      "compressed_path": "./photos/Food/94.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/94.placeholder.jpg"
+    },
+    {
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Food/5.jpg",
+      "compressed_path": "./photos/Food/5.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/5.placeholder.jpg"
+    },
+    {
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Food/7.jpg",
+      "compressed_path": "./photos/Food/7.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/7.placeholder.jpg"
+    },
+    {
+      "width": 526,
+      "height": 585,
+      "path": "./photos/Food/6.jpg",
+      "compressed_path": "./photos/Food/6.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/6.placeholder.jpg"
+    },
+    {
+      "width": 822,
+      "height": 585,
+      "path": "./photos/Food/2.jpg",
+      "compressed_path": "./photos/Food/2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/2.placeholder.jpg"
+    },
+    {
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Food/93.jpg",
+      "compressed_path": "./photos/Food/93.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/93.placeholder.jpg"
+    },
+    {
+      "width": 652,
+      "height": 585,
+      "path": "./photos/Food/92.jpg",
+      "compressed_path": "./photos/Food/92.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/92.placeholder.jpg"
+    },
+    {
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Food/3.jpg",
+      "compressed_path": "./photos/Food/3.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/3.placeholder.jpg"
+    },
+    {
+      "width": 435,
+      "height": 585,
+      "path": "./photos/Food/1.jpg",
+      "compressed_path": "./photos/Food/1.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/1.placeholder.jpg"
+    },
+    {
+      "width": 878,
+      "height": 585,
+      "path": "./photos/Food/91.jpg",
+      "compressed_path": "./photos/Food/91.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Food/91.placeholder.jpg"
+    }
+  ],
+  "Mordancage": [
+    {
+      "width": 1229,
+      "height": 1170,
+      "path": "./photos/Mordancage/Mordancage004.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage004.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordancage/Mordancage004.placeholder.jpg"
     },
     {
       "width": 1582,
       "height": 1170,
-      "path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage002.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage002.min.jpg",
+      "path": "./photos/Mordancage/Mordancage005.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage005.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage002.placeholder.jpg"
+      "placeholder_path": "./photos/Mordancage/Mordancage005.placeholder.jpg"
     },
     {
-      "width": 1612,
+      "width": 842,
       "height": 1170,
-      "path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage007.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage007.min.jpg",
+      "path": "./photos/Mordancage/Mordancage013.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage013.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage007.placeholder.jpg"
+      "placeholder_path": "./photos/Mordancage/Mordancage013.placeholder.jpg"
     },
     {
-      "width": 958,
+      "width": 770,
       "height": 1170,
-      "path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage010.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage010.min.jpg",
+      "path": "./photos/Mordancage/Mordancage012.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage012.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage010.placeholder.jpg"
+      "placeholder_path": "./photos/Mordancage/Mordancage012.placeholder.jpg"
     },
     {
-      "width": 1518,
+      "width": 1635,
       "height": 1170,
-      "path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage005.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage005.min.jpg",
+      "path": "./photos/Mordancage/Mordancage002.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage002.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage005.placeholder.jpg"
+      "placeholder_path": "./photos/Mordancage/Mordancage002.placeholder.jpg"
     },
     {
-      "width": 866,
+      "width": 1344,
       "height": 1170,
-      "path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage010.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage010.min.jpg",
+      "path": "./photos/Mordancage/Mordancage016.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage016.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage010.placeholder.jpg"
+      "placeholder_path": "./photos/Mordancage/Mordancage016.placeholder.jpg"
     },
     {
-      "width": 963,
+      "width": 1638,
       "height": 1170,
-      "path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage006.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage006.min.jpg",
+      "path": "./photos/Mordancage/Mordancage017.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage017.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage006.placeholder.jpg"
+      "placeholder_path": "./photos/Mordancage/Mordancage017.placeholder.jpg"
     },
     {
-      "width": 869,
+      "width": 1586,
       "height": 1170,
-      "path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage007.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage007.min.jpg",
+      "path": "./photos/Mordancage/Mordancage003.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage003.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage007.placeholder.jpg"
+      "placeholder_path": "./photos/Mordancage/Mordancage003.placeholder.jpg"
     },
     {
-      "width": 828,
+      "width": 752,
       "height": 1170,
-      "path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage008.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage008.min.jpg",
+      "path": "./photos/Mordancage/Mordancage014.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage014.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/C-Mordancage008.placeholder.jpg"
+      "placeholder_path": "./photos/Mordancage/Mordancage014.placeholder.jpg"
     },
     {
-      "width": 877,
+      "width": 960,
       "height": 1170,
-      "path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage008.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage008.min.jpg",
+      "path": "./photos/Mordancage/Mordancage112.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage112.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage008.placeholder.jpg"
+      "placeholder_path": "./photos/Mordancage/Mordancage112.placeholder.jpg"
     },
     {
-      "width": 951,
+      "width": 771,
       "height": 1170,
-      "path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage009.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage009.min.jpg",
+      "path": "./photos/Mordancage/Mordancage114Van.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage114Van.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordanc\u0327age/Chromo_Mordancage009.placeholder.jpg"
+      "placeholder_path": "./photos/Mordancage/Mordancage114Van.placeholder.jpg"
+    },
+    {
+      "width": 1162,
+      "height": 619,
+      "path": "./photos/Mordancage/Mordancage_Main.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage_Main.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordancage/Mordancage_Main.placeholder.jpg"
+    },
+    {
+      "width": 903,
+      "height": 1170,
+      "path": "./photos/Mordancage/Mordancage113Van.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage113Van.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordancage/Mordancage113Van.placeholder.jpg"
+    },
+    {
+      "width": 838,
+      "height": 1170,
+      "path": "./photos/Mordancage/Mordancage019.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage019.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordancage/Mordancage019.placeholder.jpg"
+    },
+    {
+      "width": 930,
+      "height": 1170,
+      "path": "./photos/Mordancage/Mordancage018.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage018.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordancage/Mordancage018.placeholder.jpg"
+    },
+    {
+      "width": 1274,
+      "height": 1170,
+      "path": "./photos/Mordancage/Mordancage032.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage032.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordancage/Mordancage032.placeholder.jpg"
+    },
+    {
+      "width": 816,
+      "height": 1170,
+      "path": "./photos/Mordancage/Mordancage020.jpg",
+      "compressed_path": "./photos/Mordancage/Mordancage020.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Mordancage/Mordancage020.placeholder.jpg"
     }
   ],
   "Dwellings": [
@@ -919,6 +885,56 @@
       "placeholder_path": "./photos/Dwellings/Barn2.placeholder.jpg"
     }
   ],
+  "Chromoskedasic-Mordancage": [
+    {
+      "width": 1612,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic-Mordancage/Chromo_Mordancage007.jpg",
+      "compressed_path": "./photos/Chromoskedasic-Mordancage/Chromo_Mordancage007.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic-Mordancage/Chromo_Mordancage007.placeholder.jpg"
+    },
+    {
+      "width": 958,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic-Mordancage/Chromo_Mordancage010.jpg",
+      "compressed_path": "./photos/Chromoskedasic-Mordancage/Chromo_Mordancage010.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic-Mordancage/Chromo_Mordancage010.placeholder.jpg"
+    },
+    {
+      "width": 877,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic-Mordancage/aMordancage008.jpg",
+      "compressed_path": "./photos/Chromoskedasic-Mordancage/aMordancage008.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic-Mordancage/aMordancage008.placeholder.jpg"
+    },
+    {
+      "width": 866,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic-Mordancage/C-Mordancage007.jpg",
+      "compressed_path": "./photos/Chromoskedasic-Mordancage/C-Mordancage007.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic-Mordancage/C-Mordancage007.placeholder.jpg"
+    },
+    {
+      "width": 828,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic-Mordancage/C-Mordancage008.jpg",
+      "compressed_path": "./photos/Chromoskedasic-Mordancage/C-Mordancage008.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic-Mordancage/C-Mordancage008.placeholder.jpg"
+    },
+    {
+      "width": 951,
+      "height": 1170,
+      "path": "./photos/Chromoskedasic-Mordancage/Chromo_Mordancage009.jpg",
+      "compressed_path": "./photos/Chromoskedasic-Mordancage/Chromo_Mordancage009.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chromoskedasic-Mordancage/Chromo_Mordancage009.placeholder.jpg"
+    }
+  ],
   "Bones": [
     {
       "width": 899,
@@ -943,56 +959,6 @@
       "compressed_path": "./photos/Bones/Nautilus_Mordancage001.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Bones/Nautilus_Mordancage001.placeholder.jpg"
-    }
-  ],
-  "Chromoskedasic Mordancage": [
-    {
-      "width": 1612,
-      "height": 1170,
-      "path": "./photos/Chromoskedasic Mordancage/Chromo_Mordancage007.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordancage/Chromo_Mordancage007.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordancage/Chromo_Mordancage007.placeholder.jpg"
-    },
-    {
-      "width": 958,
-      "height": 1170,
-      "path": "./photos/Chromoskedasic Mordancage/Chromo_Mordancage010.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordancage/Chromo_Mordancage010.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordancage/Chromo_Mordancage010.placeholder.jpg"
-    },
-    {
-      "width": 877,
-      "height": 1170,
-      "path": "./photos/Chromoskedasic Mordancage/aMordancage008.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordancage/aMordancage008.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordancage/aMordancage008.placeholder.jpg"
-    },
-    {
-      "width": 866,
-      "height": 1170,
-      "path": "./photos/Chromoskedasic Mordancage/C-Mordancage007.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordancage/C-Mordancage007.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordancage/C-Mordancage007.placeholder.jpg"
-    },
-    {
-      "width": 828,
-      "height": 1170,
-      "path": "./photos/Chromoskedasic Mordancage/C-Mordancage008.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordancage/C-Mordancage008.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordancage/C-Mordancage008.placeholder.jpg"
-    },
-    {
-      "width": 951,
-      "height": 1170,
-      "path": "./photos/Chromoskedasic Mordancage/Chromo_Mordancage009.jpg",
-      "compressed_path": "./photos/Chromoskedasic Mordancage/Chromo_Mordancage009.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Chromoskedasic Mordancage/Chromo_Mordancage009.placeholder.jpg"
     }
   ],
   "Microscopy": [
@@ -1203,144 +1169,6 @@
       "compressed_path": "./photos/Microscopy/3.min.jpeg",
       "compressed": false,
       "placeholder_path": "./photos/Microscopy/3.placeholder.jpeg"
-    }
-  ],
-  "Mordanc\u0327age": [
-    {
-      "width": 1229,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage004.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage004.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage004.placeholder.jpg"
-    },
-    {
-      "width": 1582,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage005.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage005.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage005.placeholder.jpg"
-    },
-    {
-      "width": 842,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage013.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage013.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage013.placeholder.jpg"
-    },
-    {
-      "width": 770,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage012.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage012.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage012.placeholder.jpg"
-    },
-    {
-      "width": 1635,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage002.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage002.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage002.placeholder.jpg"
-    },
-    {
-      "width": 1344,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage016.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage016.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage016.placeholder.jpg"
-    },
-    {
-      "width": 1638,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage017.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage017.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage017.placeholder.jpg"
-    },
-    {
-      "width": 1586,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage003.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage003.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage003.placeholder.jpg"
-    },
-    {
-      "width": 752,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage014.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage014.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage014.placeholder.jpg"
-    },
-    {
-      "width": 960,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage112.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage112.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage112.placeholder.jpg"
-    },
-    {
-      "width": 771,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage114Van.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage114Van.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage114Van.placeholder.jpg"
-    },
-    {
-      "width": 1162,
-      "height": 619,
-      "path": "./photos/Mordanc\u0327age/Mordancage_Main.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage_Main.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage_Main.placeholder.jpg"
-    },
-    {
-      "width": 903,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage113Van.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage113Van.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage113Van.placeholder.jpg"
-    },
-    {
-      "width": 838,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage019.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage019.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage019.placeholder.jpg"
-    },
-    {
-      "width": 930,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage018.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage018.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage018.placeholder.jpg"
-    },
-    {
-      "width": 1274,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage032.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage032.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage032.placeholder.jpg"
-    },
-    {
-      "width": 816,
-      "height": 1170,
-      "path": "./photos/Mordanc\u0327age/Mordancage020.jpg",
-      "compressed_path": "./photos/Mordanc\u0327age/Mordancage020.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Mordanc\u0327age/Mordancage020.placeholder.jpg"
     }
   ]
 }
