@@ -1,16 +1,16 @@
 {
     "Bones": [
     {
-      "width": 899,
-      "height": 767,
+      "width": 683,
+      "height": 1014,
       "path": "./photos/Bones/Mordancage001.jpg",
       "compressed_path": "./photos/Bones/Mordancage001.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Bones/Mordancage001.placeholder.jpg"
     },
     {
-      "width": 683,
-      "height": 1014,
+      "width": 899,
+      "height": 767,
       "path": "./photos/Bones/Mordancage002.jpg",
       "compressed_path": "./photos/Bones/Mordancage002.min.jpg",
       "compressed": false,
@@ -525,20 +525,20 @@
       "placeholder_path": "./photos/Gutenberg/Gutenberg020.placeholder.jpg"
     },
     {
-      "width": 793,
-      "height": 585,
-      "path": "./photos/Gutenberg/Gutenberg018.jpg",
-      "compressed_path": "./photos/Gutenberg/Gutenberg018.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Gutenberg/Gutenberg018.placeholder.jpg"
-    },
-    {
       "width": 414,
       "height": 585,
       "path": "./photos/Gutenberg/Gutenberg024.jpg",
       "compressed_path": "./photos/Gutenberg/Gutenberg024.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Gutenberg/Gutenberg024.placeholder.jpg"
+    },
+    {
+      "width": 793,
+      "height": 585,
+      "path": "./photos/Gutenberg/Gutenberg018.jpg",
+      "compressed_path": "./photos/Gutenberg/Gutenberg018.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Gutenberg/Gutenberg018.placeholder.jpg"
     }
   ],
   "Microscopy": [
@@ -1087,9 +1087,33 @@
       "placeholder_path": "./photos/Miscellaneous/Sepia002.placeholder.jpg"
     }
   ],
-    "Chair": [
+ "Chair": [
+     {
+      "width": 873,
+      "height": 585,
+      "path": "./photos/Chair/chair9.jpg",
+      "compressed_path": "./photos/Chair/chair9.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chair/chair9.placeholder.jpg"
+    },
     {
       "width": 858,
+      "height": 585,
+      "path": "./photos/Chair/chair6.jpg",
+      "compressed_path": "./photos/Chair/chair6.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chair/chair6.placeholder.jpg"
+    },
+    {
+      "width": 849,
+      "height": 585,
+      "path": "./photos/Chair/chair8.jpg",
+      "compressed_path": "./photos/Chair/chair8.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Chair/chair8.placeholder.jpg"
+    },
+    {
+      "width": 866,
       "height": 585,
       "path": "./photos/Chair/chair1.jpg",
       "compressed_path": "./photos/Chair/chair1.min.jpg",
@@ -1097,20 +1121,12 @@
       "placeholder_path": "./photos/Chair/chair1.placeholder.jpg"
     },
     {
-      "width": 891,
+      "width": 868,
       "height": 585,
       "path": "./photos/Chair/chair2.jpg",
       "compressed_path": "./photos/Chair/chair2.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Chair/chair2.placeholder.jpg"
-    },
-    {
-      "width": 875,
-      "height": 585,
-      "path": "./photos/Chair/chair3.jpg",
-      "compressed_path": "./photos/Chair/chair3.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Chair/chair3.placeholder.jpg"
     },
     {
       "width": 853,
@@ -1121,23 +1137,7 @@
       "placeholder_path": "./photos/Chair/chair4.placeholder.jpg"
     },
     {
-      "width": 866,
-      "height": 585,
-      "path": "./photos/Chair/chair5.jpg",
-      "compressed_path": "./photos/Chair/chair5.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Chair/chair5.placeholder.jpg"
-    },
-    {
-      "width": 875,
-      "height": 585,
-      "path": "./photos/Chair/chair6.jpg",
-      "compressed_path": "./photos/Chair/chair6.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Chair/chair6.placeholder.jpg"
-    },
-    {
-      "width": 868,
+      "width": 891,
       "height": 585,
       "path": "./photos/Chair/chair7.jpg",
       "compressed_path": "./photos/Chair/chair7.min.jpg",
@@ -1145,20 +1145,20 @@
       "placeholder_path": "./photos/Chair/chair7.placeholder.jpg"
     },
     {
-      "width": 873,
+      "width": 875,
       "height": 585,
-      "path": "./photos/Chair/chair8.jpg",
-      "compressed_path": "./photos/Chair/chair8.min.jpg",
+      "path": "./photos/Chair/chair3.jpg",
+      "compressed_path": "./photos/Chair/chair3.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chair/chair8.placeholder.jpg"
+      "placeholder_path": "./photos/Chair/chair3.placeholder.jpg"
     },
     {
-      "width": 849,
+      "width": 875,
       "height": 585,
-      "path": "./photos/Chair/chair9.jpg",
-      "compressed_path": "./photos/Chair/chair9.min.jpg",
+      "path": "./photos/Chair/chair5.jpg",
+      "compressed_path": "./photos/Chair/chair5.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Chair/chair9.placeholder.jpg"
+      "placeholder_path": "./photos/Chair/chair5.placeholder.jpg"
     }
   ],
   "Natural Definition": [
